@@ -1,0 +1,11 @@
+ultralytics==8.3.70 
+paddlepaddle==3.0.00 
+paddleocr>=3.0.2
+
+opencv-contrib-python>=4.8.0.76
+numpy>=1.23.5,<2.0
+
+shapely
+pyclipper
+langchain
+langchain-community

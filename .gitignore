@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore YOLO training output
+runs/
+runs/*
+output_video/*
+models/*
+stubs/*
+
+venv
