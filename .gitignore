@@ -8,7 +8,10 @@ __pycache__/
 runs/
 runs/*
 output_video/*
-models/*
+models/*.pt
+models/*.onnx
+models/*.engine
 stubs/*
 
+!models/
 venv
